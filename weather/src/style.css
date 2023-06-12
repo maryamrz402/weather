@@ -1,0 +1,23 @@
+.weather {
+   background-color:  #93deff;
+   border:1px solid #40a8c4;
+   padding: 20px;
+   font-family: 'Roboto', sans-serif;
+   max-width: 600px;
+display: block;
+margin: 0 auto;
+
+}
+.deg{font-size: 50px;}
+ .day{font-size: 20px;}
+ h1{
+   font-size: 50px;
+ }
+ li{list-style: none;}   
+     .unit:hover {
+       position: relative;
+       text-decoration: underline;
+     }
+ 
+a{text-decoration: none;}
+
